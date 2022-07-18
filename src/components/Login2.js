@@ -35,7 +35,7 @@ const Login2 = () => {
               className="border relative bg-gray-100 rounded-md p-2"
             />
           </div>
-          <button className="w-full py-3 mt-2 bg-indigo-600 hover:bg-indigo-500 relative rounded-sm text-white rounded-md">
+          <button className="w-full py-3 mt-2 bg-indigo-600 hover:bg-indigo-500 relative rounded-md text-white rounded-md">
             Sign In
           </button>
           <p className="flex items-center mt-2">
