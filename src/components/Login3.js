@@ -14,7 +14,7 @@ export default function Login3() {
             <h2 className="text-4xl font-bold text-center mb-8">BRAND.</h2>
             <div className="flex sm:flex-col md:flex-col lg:flex-row xl:flex-row flex-col">
               <input
-                className="border m-1 rounded-md"
+                className="border p-1 m-1 rounded-md"
                 type="text"
                 placeholder="Username"
               />
