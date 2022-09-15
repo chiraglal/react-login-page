@@ -1,12 +1,12 @@
 import React from "react";
-import LoginImg from "../assets/login.jpg";
+import LoginImg2 from "../assets/login2.jpg";
 import { FcGoogle } from "react-icons/fc";
 import { BsFacebook } from "react-icons/bs";
 const Login2 = () => {
   return (
     <div className="relative w-full h-screen bg-zinc-900/90">
       <img
-        src={LoginImg}
+        src={LoginImg2}
         alt="/"
         className="absolute w-full h-full object-cover mix-blend-overlay"
       />

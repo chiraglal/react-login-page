@@ -1,13 +1,12 @@
 import React from "react";
-
-import LoginImg2 from "../assets/login2.jpg";
+import LoginImg3 from "../assets/login3.jpg";
 
 export default function Login3() {
   return (
     <div className="w-full h-screen flex">
       <div className="grid grid-cols-1 md:grid-cols-2 m-auto h-[550px] shadow-md hover:shadow-xl duration-200 sm:max-w-[900px]">
         <div className="w-full h-[550px] hidden md:block">
-          <img className="w-full h-full" src={LoginImg2} alt="/" />
+          <img className="w-full h-full" src={LoginImg3} alt="/" />
         </div>
         <div className="p-4 flex flex-col justify-around">
           <form>
